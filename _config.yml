@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Zyenai"
+  name   : "zyenai"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Industrial penetration tester @ Dragos."
   links:
