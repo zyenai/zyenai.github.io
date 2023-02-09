@@ -61,11 +61,11 @@ plugins:
 author:
   name   : "zyenai"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Industrial penetration tester @ Dragos."
+  bio    : "ICS pentester"
   links:
     - label: "Nostr"
       icon: "fas fa-fw fa-link"
-      url: "https://damus.io/"
+      url: "https://damus.io/npub13wgdlgydpapvlk807q44c0p5xl2n6a0rpr5fgx6cxf3vr0puf4fqm0e4ng"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/zyenai"
