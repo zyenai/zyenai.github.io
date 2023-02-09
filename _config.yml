@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "zyenai"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "ICS pentester"
+  bio    : "Industrial control systems pentester"
   links:
     - label: "Nostr"
       icon: "fas fa-fw fa-link"
